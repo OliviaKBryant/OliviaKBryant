@@ -1,6 +1,6 @@
 ### Hi, I'm Olivia 👋
 
-I am currently a first-year PhD student in Pharmacoepidemiology at the UCL School of Pharmacy working on psychotropic drug use and deprescribing for people living with dementia using CPRD GOLD and Aurum data. I am supervised by [Dr Wallis Lau](https://www.ucl.ac.uk/pharmacy/people/dr-wallis-lau) and [Professor Li Wei](https://www.ucl.ac.uk/pharmacy/people/prof-li-wei).
+I am currently a second-year PhD student in Pharmacoepidemiology at the UCL School of Pharmacy working on psychotropic drug use and deprescribing for people living with dementia using CPRD GOLD and Aurum data. I am supervised by [Dr Wallis Lau](https://www.ucl.ac.uk/pharmacy/people/dr-wallis-lau) and [Professor Li Wei](https://www.ucl.ac.uk/pharmacy/people/prof-li-wei).
 
 My PhD is funded by the PharmAlliance Research Clusters for Doctoral Training grant though a collaboration between UCL, University of North Carolina and Monash University.
 
